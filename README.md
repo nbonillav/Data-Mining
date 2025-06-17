@@ -1,4 +1,2 @@
 # Data-Mining
-Python projects.
-
-_University projects._
+Python projects.  _University projects._
